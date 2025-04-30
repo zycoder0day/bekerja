@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://journal.evsu.edu.ph/sitemap.xml
