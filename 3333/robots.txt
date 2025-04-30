@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: https://journals.uol.edu.pk/sitemap.xml
